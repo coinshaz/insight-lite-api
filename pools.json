@@ -32,24 +32,24 @@
 		]
 	},
 	{
-		"poolName": "LTC.TOP",
+		"poolName": "UTC.TOP",
 		"url": "http://",
 		"searchStrings": [
-			"LTC.TOP"
+			"UTC.TOP"
 		]
 	},
 	{
-	  	"poolName": "LitecoinPool",
-	  	"url": "https://litecoinpool.org",
+	  	"poolName": "UnitedcoinPool",
+	  	"url": "https://unitedcoinpool.org",
 	  	"searchStrings": [
 		  	"/LP/"
 		]
 	},
 	{
-	  	"poolName": "ViaLTC",
+	  	"poolName": "ViaUTC",
 	  	"url": "https://www.vialtc.com/",
 	  	"searchStrings": [
-		  	"/ViaLTC/"
+		  	"/ViaUTC/"
 		]
 	},
 	{
