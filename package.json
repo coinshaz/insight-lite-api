@@ -1,8 +1,8 @@
 {
-  "name": "insight-lite-api",
+  "name": "insight-united-api",
   "description": "A Unitedcoin blockchain REST and web socket API service for Unitedcore Node.",
   "version": "0.4.4",
-  "repository": "git://github.com/coinshaz/insight-lite-api.git",
+  "repository": "git://github.com/coinshaz/insight-united-api.git",
   "contributors": [
     {
       "name": "Gustavo Cortez",
@@ -61,7 +61,7 @@
   "bitcoreNode": "lib",
   "dependencies": {
     "async": "*",
-    "unitedcore-lib": "^0.13.22",
+    "unitedcore-lib": "^0.13.21",
     "unitedcore-message": "^1.0.5",
     "body-parser": "^1.13.3",
     "compression": "^1.6.1",

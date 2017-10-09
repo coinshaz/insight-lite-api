@@ -38,3 +38,7 @@ db/testnet/blocks
 
 README.html
 public
+.vs/slnx.sqlite
+.vs/ProjectSettings.json
+.vs/VSWorkspaceState.json
+.vs/config/applicationhost.config
